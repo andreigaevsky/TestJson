@@ -1,0 +1,266 @@
+{
+  "status": 200,
+  "data": [
+    {
+      "id": 7554,
+      "title": "Mortal Kombat",
+      "slug": "mortal-kombat",
+      "source_title": null,
+      "production_year": 2021,
+      "length": 110,
+      "release_date": "2021-04-07",
+      "release_year": 2021,
+      "release_date_ww": null,
+      "release_date_us": "2021-04-16",
+      "re_release_date": null,
+      "date_lock": false,
+      "poster": "https:\/\/da1wrbd70alrw.cloudfront.net\/media\/posters\/2021\/mortal-kombat-2021-1613984855.jpg",
+      "trailers": [
+        {
+          "url": "https:\/\/www.youtube.com\/embed\/jBa_aHwCbC4",
+          "mime": null,
+          "size": null,
+          "embed": true,
+          "image": null,
+          "width": 1080,
+          "height": null,
+          "source": "TMDb",
+          "version": null
+        }
+      ],
+      "links": {
+        "Cinenews": "https:\/\/www.cinenews.be\/en\/movies\/mortal-combat\/",
+        "IMDb": "https:\/\/www.imdb.com\/title\/tt0293429",
+        "MovieMeter": "https:\/\/www.moviemeter.nl\/film\/1136097",
+        "mortalkombatmovie.net": "https:\/\/www.mortalkombatmovie.net"
+      },
+      "languages": [
+        "en"
+      ],
+      "synopses": [
+        {
+          "lang": "en",
+          "text": "Plot unknown. Feature film based on the popular video game."
+        },
+        {
+          "lang": "nl",
+          "text": "Cole Young, een uitgerangeerde MMA-vechter, raakt betrokken bij de decennialange bovennatuurlijke oorlog tussen twee lang geleden overleden ninja-clans. Young raakt vervolgens met verschillende anderen verwikkeld in een vechttoernooi dat georganiseerd wordt door Raiden. Onder hen bevinden zich onder andere Jax en Sonya Blade, die een vreemde band met Young delen in de vorm van mysterieuze moedervlekken."
+        }
+      ],
+      "imdb_id": "tt0293429",
+      "imdb_id_lock": false,
+      "distributor_id": 86,
+      "production": null,
+      "type": "movie",
+      "meta": {
+        "BRL": {
+          "id": 17900088019
+        },
+        "TMDb": {
+          "id": 460465
+        },
+        "source": "BRL",
+        "MovieMeter": {
+          "id": 1136097
+        }
+      },
+      "scores": null,
+      "hidden": 0,
+      "import_weight": 60,
+      "created_at": "2020-01-14 20:15:22",
+      "updated_at": "2021-05-03 20:15:02",
+      "deleted_at": null,
+      "distributor": {
+        "id": 86,
+        "external_id": "179",
+        "name": "Warner Brothers (BE)",
+        "short": "WBf",
+        "city": "Brussel"
+      },
+      "tags": [
+        {
+          "id": 3,
+          "name": "action",
+          "code": null,
+          "picture": null,
+          "type": 1,
+          "user_id": null,
+          "type_model": {
+            "id": 1,
+            "name": "genre",
+            "slug": "genre",
+            "user_id": null
+          }
+        },
+        {
+          "id": 4,
+          "name": "adventure",
+          "code": null,
+          "picture": null,
+          "type": 1,
+          "user_id": null,
+          "type_model": {
+            "id": 1,
+            "name": "genre",
+            "slug": "genre",
+            "user_id": null
+          }
+        },
+        {
+          "id": 11,
+          "name": "thriller",
+          "code": null,
+          "picture": null,
+          "type": 1,
+          "user_id": null,
+          "type_model": {
+            "id": 1,
+            "name": "genre",
+            "slug": "genre",
+            "user_id": null
+          }
+        },
+        {
+          "id": 15,
+          "name": "science fiction",
+          "code": null,
+          "picture": null,
+          "type": 1,
+          "user_id": null,
+          "type_model": {
+            "id": 1,
+            "name": "genre",
+            "slug": "genre",
+            "user_id": null
+          }
+        },
+        {
+          "id": 25,
+          "name": "fantasy",
+          "code": null,
+          "picture": null,
+          "type": 1,
+          "user_id": null,
+          "type_model": {
+            "id": 1,
+            "name": "genre",
+            "slug": "genre",
+            "user_id": null
+          }
+        },
+        {
+          "id": 11412,
+          "name": "restricted",
+          "code": "R",
+          "picture": null,
+          "type": 2,
+          "user_id": null,
+          "type_model": {
+            "id": 2,
+            "name": "rating (US)",
+            "slug": "rating-us",
+            "user_id": null
+          }
+        }
+      ],
+      "titles": [
+        {
+          "id": 16456,
+          "title": "Mortal Combat",
+          "slug": "mortal-combat",
+          "lang": null,
+          "movie_id": 7554,
+          "source": "Canonicalization"
+        }
+      ],
+      "countries": [
+        {
+          "id": 11,
+          "name": "Australia",
+          "alpha_2": "AU",
+          "alpha_3": "AUS"
+        },
+        {
+          "id": 239,
+          "name": "United States",
+          "alpha_2": "US",
+          "alpha_3": "USA"
+        }
+      ],
+      "persons": [
+        {
+          "id": 3038,
+          "name": "Lewis Tan",
+          "type": "actor",
+          "gender": null,
+          "picture": null
+        },
+        {
+          "id": 384515,
+          "name": "Joe Taslim",
+          "type": "actor",
+          "gender": null,
+          "picture": null
+        },
+        {
+          "id": 655311,
+          "name": "Chin Han",
+          "type": "actor",
+          "gender": null,
+          "picture": null
+        },
+        {
+          "id": 662439,
+          "name": "Josh Lawson",
+          "type": "actor",
+          "gender": null,
+          "picture": null
+        },
+        {
+          "id": 676676,
+          "name": "Tadanobu Asano",
+          "type": "actor",
+          "gender": null,
+          "picture": null
+        },
+        {
+          "id": 677023,
+          "name": "Hiroyuki Sanada",
+          "type": "actor",
+          "gender": null,
+          "picture": null
+        },
+        {
+          "id": 685683,
+          "name": "Jessica McNamee",
+          "type": "actor",
+          "gender": null,
+          "picture": null
+        },
+        {
+          "id": 685684,
+          "name": "Simon McQuoid",
+          "type": "director",
+          "gender": null,
+          "picture": null
+        },
+        {
+          "id": 688971,
+          "name": "Ludi Lin",
+          "type": "actor",
+          "gender": null,
+          "picture": null
+        },
+        {
+          "id": 701668,
+          "name": "Mehcad Brooks",
+          "type": "actor",
+          "gender": null,
+          "picture": null
+        }
+      ],
+      "versions": []
+    }
+  ],
+  "errors": []
+}
